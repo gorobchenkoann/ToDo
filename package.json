@@ -6,7 +6,8 @@
   "scripts": {
     "clean": "rm -rf dist",
     "start": "parcel src/index.html",
-    "build": "npm run clean && parcel build src/index.html -d public --public-url ./"
+    "build": "npm run clean && parcel build src/index.html --public-url /gorobchenkoann/",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
