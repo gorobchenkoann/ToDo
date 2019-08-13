@@ -1,6 +1,6 @@
 Classic
 -------
-
+Another one ToDo app.
 
 A [Pen](https://codepen.io/gorobchenko/pen/BXXYNX) by [gorobchenko](https://codepen.io/gorobchenko) on [CodePen](https://codepen.io).
 
