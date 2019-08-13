@@ -7,7 +7,7 @@
     "clean": "rm -rf dist",
     "start": "parcel src/index.html",
     "build": "npm run clean && parcel build src/index.html --public-url /gorobchenkoann/",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d public"
   },
   "repository": {
     "type": "git",
