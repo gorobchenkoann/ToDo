@@ -1,0 +1,2 @@
+.card{position:relative}.card:hover .remove{opacity:1;z-index:1}.remove{position:absolute;top:8px;right:12px;display:flex;align-items:center;justify-content:center;padding:6px 8px;opacity:0;transition:.2s;z-index:-1}.card-header.full{cursor:pointer}.alert{position:fixed;top:0;left:50%;transform:translateX(-50%);z-index:100}
+/*# sourceMappingURL=style.df49f18c.css.map */
